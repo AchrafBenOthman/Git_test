@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Git_table" language="en" table="x_186067_git_updat_git_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Git_table</label>
+            <language>en</language>
+            <name>x_186067_git_updat_git_table</name>
+            <plural>Git_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-30 09:31:49</sys_created_on>
+            <sys_id>b1326b54db00130028fbdd30cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Git_table</sys_name>
+            <sys_package display_value="Git update" source="x_186067_git_updat">d0d12b14db00130028fbdd30cf96198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Git update">d0d12b14db00130028fbdd30cf96198b</sys_scope>
+            <sys_update_name>sys_documentation_x_186067_git_updat_git_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-30 09:31:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
